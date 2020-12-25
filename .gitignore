@@ -1,5 +1,6 @@
 # Avoid folders
 /renv
+/try
 
 # History files
 .Rhistory
