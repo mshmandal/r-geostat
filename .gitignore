@@ -1,6 +1,11 @@
+# Avoid folders
+/renv
+
 # History files
 .Rhistory
 .Rapp.history
+.Rproj
+.Rprofile
 
 # Session Data files
 .RData
